@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPlayGround", "Максимална-площадка\MaxPlayGround.csproj", "{42F716B5-44A9-4A64-ADA6-5F01B291C744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "Морски-шах\TicTacToe.csproj", "{C4F3CA54-9EC1-481F-99BB-292F7DD44D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "Триъгълник-на-Паскал\PascalTriangle.csproj", "{FE5A6846-1967-42B3-9F3E-6FA2642DCEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMaster", "Таблички\ExcelMaster.csproj", "{72738FF8-B3A4-44B3-BDC0-DD0E9773E8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F716B5-44A9-4A64-ADA6-5F01B291C744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F716B5-44A9-4A64-ADA6-5F01B291C744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F716B5-44A9-4A64-ADA6-5F01B291C744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F716B5-44A9-4A64-ADA6-5F01B291C744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F3CA54-9EC1-481F-99BB-292F7DD44D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F3CA54-9EC1-481F-99BB-292F7DD44D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F3CA54-9EC1-481F-99BB-292F7DD44D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F3CA54-9EC1-481F-99BB-292F7DD44D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5A6846-1967-42B3-9F3E-6FA2642DCEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5A6846-1967-42B3-9F3E-6FA2642DCEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5A6846-1967-42B3-9F3E-6FA2642DCEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5A6846-1967-42B3-9F3E-6FA2642DCEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72738FF8-B3A4-44B3-BDC0-DD0E9773E8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72738FF8-B3A4-44B3-BDC0-DD0E9773E8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72738FF8-B3A4-44B3-BDC0-DD0E9773E8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72738FF8-B3A4-44B3-BDC0-DD0E9773E8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152C9C27-4BB3-43BC-84AF-1806491F9CC3}
+	EndGlobalSection
+EndGlobal

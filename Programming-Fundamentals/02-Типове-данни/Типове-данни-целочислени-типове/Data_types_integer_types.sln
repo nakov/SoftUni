@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskWholeNumbers", "TaskWholeNumbers", "{F2C9A360-6350-4F77-A476-0AD6B62E0868}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WholeNumbers", "WholeNumbers\WholeNumbers.csproj", "{32BB3650-5101-4BF1-A510-AAD76AD46DFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskHexadecimalVariable", "TaskHexadecimalVariable", "{14D48AFE-7F92-4545-9113-3E4A4B62E4B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexadecimalVariable", "HexadecimalVariable\HexadecimalVariable.csproj", "{3EA39B0B-95FF-42C9-BF00-9A0C57F03592}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskExchangeValuesOfVariables", "TaskExchangeValuesOfVariables", "{1C707786-7F6F-4510-8AD5-41F8A7C0A2A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeValuesOfVariables", "ExchangeValuesOfVariables\ExchangeValuesOfVariables.csproj", "{B0D4BD5E-96E2-48C6-A275-932D68A9C6F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskDecimalToHexadecimalAndBinary", "TaskDecimalToHexadecimalAndBinary", "{86F930A0-F1DA-4E17-BDEB-EA13A8F4CD2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecimalToHexadecimalAndBinary", "DecimalToHexadecimalAndBinary\DecimalToHexadecimalAndBinary.csproj", "{A8E0A3D3-66CF-4354-B550-AA65FA7BB462}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskDivideIntegers", "TaskDivideIntegers", "{E84E912C-81D8-4605-A70B-7CBE887F0D29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivideIntegers", "DivideIntegers\DivideIntegers.csproj", "{873E98D2-E7EC-4AD7-AD72-6586DABA27CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskCenturiesToMinutes2", "TaskCenturiesToMinutes2", "{19700165-6DB2-49DC-9431-F4AC52500528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturiesToMinutes", "CenturiesToMinutes\CenturiesToMinutes.csproj", "{0AADDBC4-789C-429E-ACAF-1271FD147665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BB3650-5101-4BF1-A510-AAD76AD46DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BB3650-5101-4BF1-A510-AAD76AD46DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BB3650-5101-4BF1-A510-AAD76AD46DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BB3650-5101-4BF1-A510-AAD76AD46DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA39B0B-95FF-42C9-BF00-9A0C57F03592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA39B0B-95FF-42C9-BF00-9A0C57F03592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA39B0B-95FF-42C9-BF00-9A0C57F03592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA39B0B-95FF-42C9-BF00-9A0C57F03592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D4BD5E-96E2-48C6-A275-932D68A9C6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D4BD5E-96E2-48C6-A275-932D68A9C6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D4BD5E-96E2-48C6-A275-932D68A9C6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D4BD5E-96E2-48C6-A275-932D68A9C6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E0A3D3-66CF-4354-B550-AA65FA7BB462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E0A3D3-66CF-4354-B550-AA65FA7BB462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E0A3D3-66CF-4354-B550-AA65FA7BB462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E0A3D3-66CF-4354-B550-AA65FA7BB462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873E98D2-E7EC-4AD7-AD72-6586DABA27CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873E98D2-E7EC-4AD7-AD72-6586DABA27CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873E98D2-E7EC-4AD7-AD72-6586DABA27CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873E98D2-E7EC-4AD7-AD72-6586DABA27CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AADDBC4-789C-429E-ACAF-1271FD147665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AADDBC4-789C-429E-ACAF-1271FD147665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AADDBC4-789C-429E-ACAF-1271FD147665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AADDBC4-789C-429E-ACAF-1271FD147665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32BB3650-5101-4BF1-A510-AAD76AD46DFA} = {F2C9A360-6350-4F77-A476-0AD6B62E0868}
+		{3EA39B0B-95FF-42C9-BF00-9A0C57F03592} = {14D48AFE-7F92-4545-9113-3E4A4B62E4B3}
+		{B0D4BD5E-96E2-48C6-A275-932D68A9C6F2} = {1C707786-7F6F-4510-8AD5-41F8A7C0A2A7}
+		{A8E0A3D3-66CF-4354-B550-AA65FA7BB462} = {86F930A0-F1DA-4E17-BDEB-EA13A8F4CD2E}
+		{873E98D2-E7EC-4AD7-AD72-6586DABA27CD} = {E84E912C-81D8-4605-A70B-7CBE887F0D29}
+		{0AADDBC4-789C-429E-ACAF-1271FD147665} = {19700165-6DB2-49DC-9431-F4AC52500528}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF31AC45-6FE9-4EB4-B033-2A4285AB6EBB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "Брой-на-реалните-числа\CountRealNumbers.csproj", "{F89D3988-0FD5-44D0-B013-90DEDC42D764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonebookUpgrade", "Подобрен-телефонен-указател\PhonebookUpgrade.csproj", "{45CBF1A6-1F4E-469B-8303-F7F30CCF798B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89D3988-0FD5-44D0-B013-90DEDC42D764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89D3988-0FD5-44D0-B013-90DEDC42D764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89D3988-0FD5-44D0-B013-90DEDC42D764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89D3988-0FD5-44D0-B013-90DEDC42D764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CBF1A6-1F4E-469B-8303-F7F30CCF798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CBF1A6-1F4E-469B-8303-F7F30CCF798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CBF1A6-1F4E-469B-8303-F7F30CCF798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CBF1A6-1F4E-469B-8303-F7F30CCF798B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B49EFFF5-EE7D-4EBB-8BD6-D9B8134B4809}
+	EndGlobalSection
+EndGlobal

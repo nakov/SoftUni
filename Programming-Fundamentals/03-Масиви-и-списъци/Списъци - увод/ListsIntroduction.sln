@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskEnterListFromTheConsole", "TaskEnterListFromTheConsole", "{6DE596D5-D331-4FE7-A65E-54B2460A6838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterListFromTheConsole", "EnterListFromTheConsole\EnterListFromTheConsole.csproj", "{C6213F59-F874-446B-8F0C-EA85CE2FCA9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskEnterListFromTheConsoleUsingOneLine", "TaskEnterListFromTheConsoleUsingOneLine", "{009A768D-96BB-4317-9233-9D9C6B6E010D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterListFromTheConsoleUsingOneLine", "EnterListFromTheConsoleUsingOneLine\EnterListFromTheConsoleUsingOneLine.csproj", "{36B73D24-C128-490C-91A4-BBC892084B56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskListOfNames", "TaskListOfNames", "{0A57F040-62AE-473F-9E8B-95A15404BBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfNames", "ListOfNames\ListOfNames.csproj", "{00790599-D080-4856-AE24-DBF6EF2C19A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskListOfNamesII", "TaskListOfNamesII", "{C479ED6F-4D99-4430-8C6E-7523FDD55D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfNamesII", "ListOfNamesII\ListOfNamesII.csproj", "{FA927852-CEA1-464E-A82A-C727F8FEB4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6213F59-F874-446B-8F0C-EA85CE2FCA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6213F59-F874-446B-8F0C-EA85CE2FCA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6213F59-F874-446B-8F0C-EA85CE2FCA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6213F59-F874-446B-8F0C-EA85CE2FCA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B73D24-C128-490C-91A4-BBC892084B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B73D24-C128-490C-91A4-BBC892084B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B73D24-C128-490C-91A4-BBC892084B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B73D24-C128-490C-91A4-BBC892084B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00790599-D080-4856-AE24-DBF6EF2C19A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00790599-D080-4856-AE24-DBF6EF2C19A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00790599-D080-4856-AE24-DBF6EF2C19A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00790599-D080-4856-AE24-DBF6EF2C19A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA927852-CEA1-464E-A82A-C727F8FEB4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA927852-CEA1-464E-A82A-C727F8FEB4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA927852-CEA1-464E-A82A-C727F8FEB4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA927852-CEA1-464E-A82A-C727F8FEB4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6213F59-F874-446B-8F0C-EA85CE2FCA9E} = {6DE596D5-D331-4FE7-A65E-54B2460A6838}
+		{36B73D24-C128-490C-91A4-BBC892084B56} = {009A768D-96BB-4317-9233-9D9C6B6E010D}
+		{00790599-D080-4856-AE24-DBF6EF2C19A8} = {0A57F040-62AE-473F-9E8B-95A15404BBBA}
+		{FA927852-CEA1-464E-A82A-C727F8FEB4AF} = {C479ED6F-4D99-4430-8C6E-7523FDD55D51}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D06987-BEE2-458A-BB73-E00D641D3F93}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>КОД_Феникс_Оскар_Ромео_Ноември</RootNamespace>
+  </PropertyGroup>
+
+</Project>

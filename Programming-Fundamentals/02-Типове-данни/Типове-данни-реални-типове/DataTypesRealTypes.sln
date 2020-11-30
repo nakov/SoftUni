@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskFloatingPointNumbers", "TaskFloatingPointNumbers", "{0F7639CC-9A93-423A-AE45-13CD621E511F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingPointNumbers", "FloatingPointNumbers\FloatingPointNumbers.csproj", "{43C028CF-9CBD-440A-8D4B-01FDC245642C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskCircleArea(Precision12)", "TaskCircleArea(Precision12)", "{79C09FCB-6688-4D25-A7CB-1775F84B8BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea(Precision12)", "CircleArea(Precision12)\CircleArea(Precision12).csproj", "{3A4B1AE5-E1EF-4027-BED3-9A261A9069CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskExactSumRealNumbers", "TaskExactSumRealNumbers", "{C3B214D0-113D-4603-855A-D21480A6F77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumRrealNumbers", "ExactSumRrealNumbers\ExactSumRrealNumbers.csproj", "{F33CDCD6-2139-483F-A17E-19FF771AA184}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskRectangle", "TaskRectangle", "{87B8BEE3-28A6-44B9-9C34-BD9059CCEE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{9285EFD1-F4DE-4CD5-A885-46A5CE018C9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskSpeedConversion", "TaskSpeedConversion", "{AC133721-2026-46BC-BA3B-5568F27FE334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedConversion", "SpeedConversion\SpeedConversion.csproj", "{4D7C2DC7-43C5-4160-A065-7C66354BAD1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C028CF-9CBD-440A-8D4B-01FDC245642C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C028CF-9CBD-440A-8D4B-01FDC245642C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C028CF-9CBD-440A-8D4B-01FDC245642C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C028CF-9CBD-440A-8D4B-01FDC245642C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4B1AE5-E1EF-4027-BED3-9A261A9069CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4B1AE5-E1EF-4027-BED3-9A261A9069CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4B1AE5-E1EF-4027-BED3-9A261A9069CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4B1AE5-E1EF-4027-BED3-9A261A9069CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33CDCD6-2139-483F-A17E-19FF771AA184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33CDCD6-2139-483F-A17E-19FF771AA184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33CDCD6-2139-483F-A17E-19FF771AA184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33CDCD6-2139-483F-A17E-19FF771AA184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9285EFD1-F4DE-4CD5-A885-46A5CE018C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9285EFD1-F4DE-4CD5-A885-46A5CE018C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9285EFD1-F4DE-4CD5-A885-46A5CE018C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9285EFD1-F4DE-4CD5-A885-46A5CE018C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7C2DC7-43C5-4160-A065-7C66354BAD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7C2DC7-43C5-4160-A065-7C66354BAD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7C2DC7-43C5-4160-A065-7C66354BAD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7C2DC7-43C5-4160-A065-7C66354BAD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43C028CF-9CBD-440A-8D4B-01FDC245642C} = {0F7639CC-9A93-423A-AE45-13CD621E511F}
+		{3A4B1AE5-E1EF-4027-BED3-9A261A9069CD} = {79C09FCB-6688-4D25-A7CB-1775F84B8BC6}
+		{F33CDCD6-2139-483F-A17E-19FF771AA184} = {C3B214D0-113D-4603-855A-D21480A6F77D}
+		{9285EFD1-F4DE-4CD5-A885-46A5CE018C9B} = {87B8BEE3-28A6-44B9-9C34-BD9059CCEE4F}
+		{4D7C2DC7-43C5-4160-A065-7C66354BAD1B} = {AC133721-2026-46BC-BA3B-5568F27FE334}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F3421D-186D-414C-9B9D-9DA37E569101}
+	EndGlobalSection
+EndGlobal

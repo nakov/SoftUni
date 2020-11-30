@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskManipulateArray", "TaskManipulateArray", "{33EC3A0D-F709-44BE-99A5-4FBBCC0D8DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulateArray", "ManipulateArray\ManipulateArray.csproj", "{F077B627-7A13-480C-99DA-A5F5D101ED0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskSafeManipulationOfArray", "TaskSafeManipulationOfArray", "{8E3D9887-E409-498B-A109-3413C61960CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeManipulationOfArray", "SafeManipulationOfArray\SafeManipulationOfArray.csproj", "{3F016431-3731-4A87-88AD-6B4207F7DD68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskLastKNumbersSumsSequence", "TaskLastKNumbersSumsSequence", "{902353BC-69C1-4DFB-9F31-B80B30079EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastKNumbersSumsSequence", "LastKNumbersSumsSequence\LastKNumbersSumsSequence.csproj", "{3AA56CE6-EB80-49C9-B646-02B1560F360E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskExtractMiddle1_2or3_Elements", "TaskExtractMiddle1_2or3_Elements", "{CF5EDDF4-D6B1-4172-8118-FADC51B4DB22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractMiddle1_2or3_Elements", "ExtractMiddle1_2or3_Elements\ExtractMiddle1_2or3_Elements.csproj", "{5DD3944D-E56F-4576-A76E-76F96656D622}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskStorehouse", "TaskStorehouse", "{9A1284B4-515E-4570-AD81-3D7951DA428D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storehouse", "Storehouse\Storehouse.csproj", "{051ABD88-A759-43C5-B077-6F435521084E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskUpgradedStorehouse", "TaskUpgradedStorehouse", "{058D6392-C5ED-4763-90C3-590A4D5B5965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpgradedStorehouse", "UpgradedStorehouse\UpgradedStorehouse.csproj", "{2D38B179-D21C-4C96-8FC4-8BE93986F3E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F077B627-7A13-480C-99DA-A5F5D101ED0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F077B627-7A13-480C-99DA-A5F5D101ED0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F077B627-7A13-480C-99DA-A5F5D101ED0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F077B627-7A13-480C-99DA-A5F5D101ED0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F016431-3731-4A87-88AD-6B4207F7DD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F016431-3731-4A87-88AD-6B4207F7DD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F016431-3731-4A87-88AD-6B4207F7DD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F016431-3731-4A87-88AD-6B4207F7DD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA56CE6-EB80-49C9-B646-02B1560F360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA56CE6-EB80-49C9-B646-02B1560F360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA56CE6-EB80-49C9-B646-02B1560F360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA56CE6-EB80-49C9-B646-02B1560F360E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD3944D-E56F-4576-A76E-76F96656D622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD3944D-E56F-4576-A76E-76F96656D622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD3944D-E56F-4576-A76E-76F96656D622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD3944D-E56F-4576-A76E-76F96656D622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051ABD88-A759-43C5-B077-6F435521084E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051ABD88-A759-43C5-B077-6F435521084E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051ABD88-A759-43C5-B077-6F435521084E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051ABD88-A759-43C5-B077-6F435521084E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D38B179-D21C-4C96-8FC4-8BE93986F3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D38B179-D21C-4C96-8FC4-8BE93986F3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D38B179-D21C-4C96-8FC4-8BE93986F3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D38B179-D21C-4C96-8FC4-8BE93986F3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F077B627-7A13-480C-99DA-A5F5D101ED0A} = {33EC3A0D-F709-44BE-99A5-4FBBCC0D8DB7}
+		{3F016431-3731-4A87-88AD-6B4207F7DD68} = {8E3D9887-E409-498B-A109-3413C61960CB}
+		{3AA56CE6-EB80-49C9-B646-02B1560F360E} = {902353BC-69C1-4DFB-9F31-B80B30079EF5}
+		{5DD3944D-E56F-4576-A76E-76F96656D622} = {CF5EDDF4-D6B1-4172-8118-FADC51B4DB22}
+		{051ABD88-A759-43C5-B077-6F435521084E} = {9A1284B4-515E-4570-AD81-3D7951DA428D}
+		{2D38B179-D21C-4C96-8FC4-8BE93986F3E7} = {058D6392-C5ED-4763-90C3-590A4D5B5965}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F8FD8C7-DF97-4CF7-9D7F-6263262F80A0}
+	EndGlobalSection
+EndGlobal

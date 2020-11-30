@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskElevator", "TaskElevator", "{9A629D01-0B41-462E-A3E8-AA5B950523A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{188F0DFC-65D4-47F9-870C-224E5E78B89D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskSpecialNumbers", "TaskSpecialNumbers", "{3CC23366-EFE1-469F-B679-E001E7597A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumbers", "SpecialNumbers\SpecialNumbers.csproj", "{639A679C-1B24-4684-956F-25BC724B3D9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskBooleanVariable", "TaskBooleanVariable", "{28B4AA92-5CDD-46DB-8154-333912A6F9F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanVariable", "BooleanVariable\BooleanVariable.csproj", "{63F3215A-14DF-434A-BB4C-1B9923D41C86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskThreeLatinLetters", "TaskThreeLatinLetters", "{3553FF43-9CB1-4EB7-8E06-FD02CA376285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeLatinLetters", "ThreeLatinLetters\ThreeLatinLetters.csproj", "{E35C0A99-A96A-402E-9E1F-57EFBACD1A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188F0DFC-65D4-47F9-870C-224E5E78B89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188F0DFC-65D4-47F9-870C-224E5E78B89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188F0DFC-65D4-47F9-870C-224E5E78B89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188F0DFC-65D4-47F9-870C-224E5E78B89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639A679C-1B24-4684-956F-25BC724B3D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639A679C-1B24-4684-956F-25BC724B3D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639A679C-1B24-4684-956F-25BC724B3D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639A679C-1B24-4684-956F-25BC724B3D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F3215A-14DF-434A-BB4C-1B9923D41C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F3215A-14DF-434A-BB4C-1B9923D41C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F3215A-14DF-434A-BB4C-1B9923D41C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F3215A-14DF-434A-BB4C-1B9923D41C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E35C0A99-A96A-402E-9E1F-57EFBACD1A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35C0A99-A96A-402E-9E1F-57EFBACD1A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35C0A99-A96A-402E-9E1F-57EFBACD1A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35C0A99-A96A-402E-9E1F-57EFBACD1A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{188F0DFC-65D4-47F9-870C-224E5E78B89D} = {9A629D01-0B41-462E-A3E8-AA5B950523A9}
+		{639A679C-1B24-4684-956F-25BC724B3D9C} = {3CC23366-EFE1-469F-B679-E001E7597A3F}
+		{63F3215A-14DF-434A-BB4C-1B9923D41C86} = {28B4AA92-5CDD-46DB-8154-333912A6F9F3}
+		{E35C0A99-A96A-402E-9E1F-57EFBACD1A3F} = {3553FF43-9CB1-4EB7-8E06-FD02CA376285}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5294766-53D1-4A1B-85CC-1D9E373626CD}
+	EndGlobalSection
+EndGlobal

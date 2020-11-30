@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskCompareCharArrays", "TaskCompareCharArrays", "{ACAB131A-C705-46F9-B014-3768755EB6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareCharArrays", "CompareCharArrays\CompareCharArrays.csproj", "{5D3345FD-593C-4DCC-A562-224650CAB305}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskInsertNumberInSortedArray", "TaskInsertNumberInSortedArray", "{B5F0AE9D-4C65-449B-8D16-5C3350204F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNumberInSortedArray", "InsertNumberInSortedArray\InsertNumberInSortedArray.csproj", "{08E34C19-FAE6-4F02-827A-CC15639ACB6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskSearchNumberInSortedArray", "TaskSearchNumberInSortedArray", "{4BEABA0C-FC1B-4A49-A619-4A6A988B1D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchNumberInSortedArray", "SearchNumberInSortedArray\SearchNumberInSortedArray.csproj", "{C1E1AA6A-FD93-4BAB-9456-2F2F492402C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskMergeSortedArrays", "TaskMergeSortedArrays", "{BB16A2DC-D4E2-4C77-8DFB-31DE0B1EE608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrays", "MergeSortedArrays\MergeSortedArrays.csproj", "{55F04A7C-8B43-445D-A177-6530880872B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TaskSorting", "TaskSorting", "{57D79069-1964-4830-8026-E862CFE7A04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{93FFE17F-2428-4278-9028-404FBF2D1D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3345FD-593C-4DCC-A562-224650CAB305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3345FD-593C-4DCC-A562-224650CAB305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3345FD-593C-4DCC-A562-224650CAB305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3345FD-593C-4DCC-A562-224650CAB305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E34C19-FAE6-4F02-827A-CC15639ACB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E34C19-FAE6-4F02-827A-CC15639ACB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E34C19-FAE6-4F02-827A-CC15639ACB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E34C19-FAE6-4F02-827A-CC15639ACB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E1AA6A-FD93-4BAB-9456-2F2F492402C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E1AA6A-FD93-4BAB-9456-2F2F492402C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E1AA6A-FD93-4BAB-9456-2F2F492402C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E1AA6A-FD93-4BAB-9456-2F2F492402C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F04A7C-8B43-445D-A177-6530880872B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F04A7C-8B43-445D-A177-6530880872B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F04A7C-8B43-445D-A177-6530880872B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F04A7C-8B43-445D-A177-6530880872B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FFE17F-2428-4278-9028-404FBF2D1D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FFE17F-2428-4278-9028-404FBF2D1D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FFE17F-2428-4278-9028-404FBF2D1D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FFE17F-2428-4278-9028-404FBF2D1D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D3345FD-593C-4DCC-A562-224650CAB305} = {ACAB131A-C705-46F9-B014-3768755EB6F1}
+		{08E34C19-FAE6-4F02-827A-CC15639ACB6C} = {B5F0AE9D-4C65-449B-8D16-5C3350204F8B}
+		{C1E1AA6A-FD93-4BAB-9456-2F2F492402C6} = {4BEABA0C-FC1B-4A49-A619-4A6A988B1D7D}
+		{55F04A7C-8B43-445D-A177-6530880872B5} = {BB16A2DC-D4E2-4C77-8DFB-31DE0B1EE608}
+		{93FFE17F-2428-4278-9028-404FBF2D1D15} = {57D79069-1964-4830-8026-E862CFE7A04B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD57299-2497-458F-A9D5-54FCC798A590}
+	EndGlobalSection
+EndGlobal
