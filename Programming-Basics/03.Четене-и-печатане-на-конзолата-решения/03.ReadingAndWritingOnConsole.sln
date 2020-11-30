@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareArea", "Пресмятане-на-лице-на-квадрат\SquareArea.csproj", "{E629894D-4B9C-40B5-9D5A-3A0851A32287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchesToCentimetres", "От-инчове-към-сантиметри\InchesToCentimetres.csproj", "{A91625F6-E2D9-4271-8060-4380650C1F69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greeting", "Поздрав-по-име\Greeting.csproj", "{F94A5399-8CB0-47FF-B742-6BB10BE2A72D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatenateData", "Съединяване-на-текст-и-числа\ConcatenateData.csproj", "{01BD2F22-78EE-4E13-B76E-BE7E296D6A24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CelsiusToFahrenheit", "Конвертор-от-°C-към-°F\CelsiusToFahrenheit.csproj", "{3BB310A6-6B0A-4431-9511-615002EA1741}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadiansToDegrees", "Конвертор-от-радиани-в-градуси\RadiansToDegrees.csproj", "{4A9E24B1-013F-47BD-B550-325E6C6942B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USDToBGN", "Конвертор-от-USD-към-BGN\USDToBGN.csproj", "{B6B662E3-C6F4-48A6-AE2B-8CAA7837C105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E629894D-4B9C-40B5-9D5A-3A0851A32287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E629894D-4B9C-40B5-9D5A-3A0851A32287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E629894D-4B9C-40B5-9D5A-3A0851A32287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E629894D-4B9C-40B5-9D5A-3A0851A32287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91625F6-E2D9-4271-8060-4380650C1F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91625F6-E2D9-4271-8060-4380650C1F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91625F6-E2D9-4271-8060-4380650C1F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91625F6-E2D9-4271-8060-4380650C1F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94A5399-8CB0-47FF-B742-6BB10BE2A72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94A5399-8CB0-47FF-B742-6BB10BE2A72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94A5399-8CB0-47FF-B742-6BB10BE2A72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94A5399-8CB0-47FF-B742-6BB10BE2A72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BD2F22-78EE-4E13-B76E-BE7E296D6A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BD2F22-78EE-4E13-B76E-BE7E296D6A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BD2F22-78EE-4E13-B76E-BE7E296D6A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BD2F22-78EE-4E13-B76E-BE7E296D6A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB310A6-6B0A-4431-9511-615002EA1741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB310A6-6B0A-4431-9511-615002EA1741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB310A6-6B0A-4431-9511-615002EA1741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB310A6-6B0A-4431-9511-615002EA1741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9E24B1-013F-47BD-B550-325E6C6942B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9E24B1-013F-47BD-B550-325E6C6942B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9E24B1-013F-47BD-B550-325E6C6942B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9E24B1-013F-47BD-B550-325E6C6942B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B662E3-C6F4-48A6-AE2B-8CAA7837C105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B662E3-C6F4-48A6-AE2B-8CAA7837C105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B662E3-C6F4-48A6-AE2B-8CAA7837C105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B662E3-C6F4-48A6-AE2B-8CAA7837C105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFE65203-101D-47FC-9286-9E09CECE759D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaction", "Transaction\Transaction.csproj", "{F0DCB6AF-EC06-4E40-8ED8-55C0571F1A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltCoins", "AltCoins\AltCoins.csproj", "{86AF817A-6C9A-4336-868E-86787D1C564D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeDesk", "ChangeDesk\ChangeDesk.csproj", "{27032B8D-E6D4-435F-B9C7-AA71BDF8BDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinRatings", "CoinRatings\CoinRatings.csproj", "{3BFF5395-59DC-4933-AB73-6F0CA8BF4A8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewCoin", "NewCoin\NewCoin.csproj", "{3727E26D-E488-4D08-838A-DCBEAD231D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenerator", "CodeGenerator\CodeGenerator.csproj", "{7B4187A9-8FDA-47CB-BC67-DFA3AF6C4BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0DCB6AF-EC06-4E40-8ED8-55C0571F1A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DCB6AF-EC06-4E40-8ED8-55C0571F1A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DCB6AF-EC06-4E40-8ED8-55C0571F1A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DCB6AF-EC06-4E40-8ED8-55C0571F1A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AF817A-6C9A-4336-868E-86787D1C564D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AF817A-6C9A-4336-868E-86787D1C564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AF817A-6C9A-4336-868E-86787D1C564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AF817A-6C9A-4336-868E-86787D1C564D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27032B8D-E6D4-435F-B9C7-AA71BDF8BDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27032B8D-E6D4-435F-B9C7-AA71BDF8BDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27032B8D-E6D4-435F-B9C7-AA71BDF8BDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27032B8D-E6D4-435F-B9C7-AA71BDF8BDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFF5395-59DC-4933-AB73-6F0CA8BF4A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFF5395-59DC-4933-AB73-6F0CA8BF4A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFF5395-59DC-4933-AB73-6F0CA8BF4A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFF5395-59DC-4933-AB73-6F0CA8BF4A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3727E26D-E488-4D08-838A-DCBEAD231D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3727E26D-E488-4D08-838A-DCBEAD231D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3727E26D-E488-4D08-838A-DCBEAD231D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3727E26D-E488-4D08-838A-DCBEAD231D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4187A9-8FDA-47CB-BC67-DFA3AF6C4BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4187A9-8FDA-47CB-BC67-DFA3AF6C4BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4187A9-8FDA-47CB-BC67-DFA3AF6C4BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4187A9-8FDA-47CB-BC67-DFA3AF6C4BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16748CCA-E0FC-4586-9868-2C7323A75AA9}
+	EndGlobalSection
+EndGlobal
